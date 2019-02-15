@@ -1,0 +1,13 @@
+#pantalla{
+    background-image: 
+         url("/mvcAutenticar/images/back.jpg");
+}
+
+#tabla{
+    border:0;
+    margin:auto;
+    padding:0;
+    background-color: white;
+    text-align: left;
+}
+
